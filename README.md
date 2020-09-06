@@ -44,7 +44,7 @@ These are the [Levy, Steven(2010)](https://www.amazon.com/Hackers-Computer-Revol
 
 ### Projects Google Colab Series List (from 2016 until now) :ant:
 
-[#EX_01](_EX_01/) #ColabPySeries - [**Title**](https://medium.com/jungletronics/binary-counter-logic-analyzer-74872e6db7b9) — *Numpy lib*
+[#EX_01](_EX_01/) #ColabPySeries - [**Python Review & Numpy Init**](https://medium.com/jungletronics/binary-counter-logic-analyzer-74872e6db7b9) — *A Crash Python Review and Initialization at Numpy lib*
 
 
 ### License
