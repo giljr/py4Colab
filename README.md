@@ -42,7 +42,7 @@ These are the [Levy, Steven(2010)](https://www.amazon.com/Hackers-Computer-Revol
 
 >[Google Drive](https://drive.google.com/open?id=0B8iMbc-iQqlULW1HZXFiNnBEZUE) This gives you access to all the project's files. Please, search by # for artifacts, such as Code, Fritzing, Proteus, Schemas and more \o/
 
-### Projects Google Colab Series List (from 2016 until now) :ant:
+### Projects Google Colab Series List (from 2020 until now) :ant:
 
 [#EX_01](_EX_01/) #ColabPySeries - [**Python Review & Numpy Init**](https://medium.com/jungletronics/binary-counter-logic-analyzer-74872e6db7b9) — *A Crash Python Review and Initialization at Numpy lib*
 
