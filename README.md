@@ -46,6 +46,8 @@ These are the [Levy, Steven(2010)](https://www.amazon.com/Hackers-Computer-Revol
 
 [#EX_01](EX_01/) #ColabPySeries - [**Python Review & Numpy Init**](https://medium.com/jungletronics/numpy-init-python-review-f5362abbaaf9) — *A Crash Python Review and Initialization at Numpy lib*
 
+[#EX_02](EX_02/) #ColabPySeries - [**NumPy Arrays & Jupyter Notebook**](https://medium.com/jungletronics/numpy-jupyter-notebook-1182f78ab4e1) — *Arithmetic Operations, Indexing & Slicing, and Conditional Selection w/ np arrays*
+
 
 ### License
 
