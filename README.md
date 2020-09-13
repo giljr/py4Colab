@@ -48,6 +48,8 @@ These are the [Levy, Steven(2010)](https://www.amazon.com/Hackers-Computer-Revol
 
 [#EX_02](EX_02/) #ColabPySeries - [**NumPy Arrays & Jupyter Notebook**](https://medium.com/jungletronics/numpy-jupyter-notebook-1182f78ab4e1) — *Arithmetic Operations, Indexing & Slicing, and Conditional Selection w/ np arrays*
 
+[#EX_03](EX_03/) #ColabPySeries - [**Python 4 Engineers — Even More Exercises!**](https://medium.com/jungletronics/python-4-engineers-even-more-exercises-d0141e0b06d) — *More Practicing Coding Questions in Python! #PySeries#Episode 09*
+
 
 ### License
 
