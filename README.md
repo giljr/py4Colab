@@ -52,6 +52,8 @@ These are the [Levy, Steven(2010)](https://www.amazon.com/Hackers-Computer-Revol
 
 [#EX_04](EX_04/) #ColabPySeries - [**Pandas — Hierarchical Index & Cross-section**](https://medium.com/jungletronics/python-4-engineers-even-more-exercises-d0141e0b06d) — *Open your Colab notebook and here are the follow-up exercises! #PySeries#Episode 10*
 
+[#EX_05](EX_05/) #ColabPySeries - [**Pandas — Missing Data**](https://medium.com/jungletronics/python-4-engineers-even-more-exercises-d0141e0b06d) — *Let’s Continue the Python Exercises — Filling & Dropping Missing Data! #PySeries#Episode 11*
+
 ### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
