@@ -50,6 +50,7 @@ These are the [Levy, Steven(2010)](https://www.amazon.com/Hackers-Computer-Revol
 
 [#EX_03](EX_03/) #ColabPySeries - [**Python 4 Engineers — Even More Exercises!**](https://medium.com/jungletronics/python-4-engineers-even-more-exercises-d0141e0b06d) — *More Practicing Coding Questions in Python! #PySeries#Episode 09*
 
+[#EX_04](EX_04/) #ColabPySeries - [**Pandas — Hierarchical Index & Cross-section**](https://medium.com/jungletronics/python-4-engineers-even-more-exercises-d0141e0b06d) — *Open your Colab notebook and here are the follow-up exercises! #PySeries#Episode 10*
 
 ### License
 
