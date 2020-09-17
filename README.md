@@ -52,9 +52,13 @@ These are the [Levy, Steven(2010)](https://www.amazon.com/Hackers-Computer-Revol
 
 [#EX_04](EX_04/) #ColabPySeries - [**Pandas — Hierarchical Index & Cross-section**](https://medium.com/jungletronics/pandas-hierarchical-index-cross-section-30783023a274) — *Open your Colab notebook and here are the follow-up exercises! #PySeries#Episode 10*
 
-[#EX_05](EX_05/) #ColabPySeries - [**Pandas — Missing Data**](https://medium.com/jungletronics/pandas-missing-data-5142f3eda2b) — *Let’s Continue the Python Exercises — Filling & Dropping Missing Data! #PySeries#Episode 11*
+[#EX_07](EX_07/) #ColabPySeries - [**Pandas — Missing Data**](https://medium.com/jungletronics/pandas-missing-data-5142f3eda2b) — *Let’s Continue the Python Exercises — Filling & Dropping Missing Data! #PySeries#Episode 11*
 
-[#EX_06](EX_06/) #ColabPySeries - [**Pandas — Group By**](https://medium.com/jungletronics/pandas-group-by-3140d053b9c) — *Grouping large amounts of data and compute operations on these groups! #PySeries#Episode 12*
+[#EX_05](EX_05/) #ColabPySeries - [**Pandas — Group By**](https://medium.com/jungletronics/pandas-group-by-3140d053b9c) — *Grouping large amounts of data and compute operations on these groups! #PySeries#Episode 12*
+
+[#EX_06](EX_06/) #ColabPySeries - [**Pandas — Merging, Joining & Concatenations**](https://medium.com/jungletronics/pandas-merging-joining-concatenations-a35bbe1a9dd5) — *Facilities For Easily Combining Together Series or DataFrame — #PySeries#Episode 13*
+
+
 
 ### License
 
