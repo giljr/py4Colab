@@ -58,6 +58,7 @@ These are the [Levy, Steven(2010)](https://www.amazon.com/Hackers-Computer-Revol
 
 [#EX_06](EX_06/) #ColabPySeries - [**Pandas — Merging, Joining & Concatenations**](https://medium.com/jungletronics/pandas-merging-joining-concatenations-a35bbe1a9dd5) — *Facilities For Easily Combining Together Series or DataFrame — #PySeries#Episode 13*
 
+[#EX_08](EX_08/) #ColabPySeries - [**Pandas — Operations**](https://medium.com/jungletronics/pandas-operations-4b8f7a4b4139) — *Pandas Dataframe Examples: Column Operations — #PySeries#Episode 14*
 
 
 ### License
